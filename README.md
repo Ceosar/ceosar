@@ -33,9 +33,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceosar&show_icons=true&theme=dark&locale=en&layout=compact" alt="ceosar" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ceosar&show_icons=true&theme=dark&locale=en" alt="ceosar" /></p>
+<!--<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ceosar&show_icons=true&theme=dark&locale=en" alt="ceosar" /></p> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ceosar&theme=dark" alt="ceosar" /></p>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceosar&theme=dark"></p>
 
 <hr>
 
