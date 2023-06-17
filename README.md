@@ -11,7 +11,7 @@
 
 - 👯 I cooperate with [Colobok2002](https://github.com/Colobok2002)
 
-- 📫 How to reach me **krupnov025@gmail.com**
+- 📫 How to reach me **[krupnov025@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=krupnov025@gmail.com)**
 
 - ⚡ I am a member of **the Chuvashia national sports programming team**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://stackoverflow.com/users/22000333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ceosar" height="40" width="50" /></a>
-<a href="https://instagram.com/ceosar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceosar" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/22000333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ceosar" height="40" width="50" /></a>
+<a href="https://instagram.com/ceosar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceosar" height="40" width="50" /></a>
 </p>
 
 <hr>
