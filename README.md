@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 <h3 align="center">ReactJS frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceosar&label=Profile%20views&color=0e75b6&style=flat" alt="ceosar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ceosar&label=Profile%20views&color=0e75b6&style=flat" alt="ceosar" /> </p>
 
 <hr>
 
